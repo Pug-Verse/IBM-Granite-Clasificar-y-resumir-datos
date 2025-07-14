@@ -1,6 +1,6 @@
 # IBM-Granite: Clasificar y resumir datos
 
-**<u>classification_lab1</u>**
+<u>**classification_lab1**</u>
 
 En este laboratorio classification_lab1 se asumirá la función de gerente de producto en una empresa de teléfonos 
 inteligentes, donde las responsabilidades fundamentales serán analizar las reseñas de los 
