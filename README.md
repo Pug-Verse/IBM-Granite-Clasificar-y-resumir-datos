@@ -1,4 +1,4 @@
-# IBM-Granite-Clasificar-y-resumir-datos
+# IBM-Granite: Clasificar y resumir datos
 
 En este laboratorio se asumirá la función de gerente de producto en una empresa de teléfonos 
 inteligentes, donde las responsabilidades fundamentales serán analizar las reseñas de los 
