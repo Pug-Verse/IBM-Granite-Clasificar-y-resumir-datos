@@ -1,6 +1,8 @@
 # IBM-Granite: Clasificar y resumir datos
 
-En este laboratorio se asumirá la función de gerente de producto en una empresa de teléfonos 
+classification_lab1 
+
+En este laboratorio classification_lab1 se asumirá la función de gerente de producto en una empresa de teléfonos 
 inteligentes, donde las responsabilidades fundamentales serán analizar las reseñas de los 
 clientes y resumir las reuniones multifuncionales. Las tareas incluyen clasificar las reseñas 
 según el sentimiento (positivo, negativo o mixto) y etiquetar aspectos prioritarios como la 
